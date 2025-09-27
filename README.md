@@ -15,7 +15,7 @@ I’m transitioning from electronics manufacturing (testing & QA) into full‑st
 * **Testing & QA:** Manual testing, test case design, debugging
 * **Others:** Google Sheets/Apps Script (automation), C (basics)
 
-> **Currently learning:** Auth (JWT), deployment (Vercel/Render), state management (Context/Redux), server-side validation, MongoDB Atlas.
+> **Currently learning:** Auth (JWT), deployment (Vercel/Render), state management (Context/Redux).
 
 ---
 
